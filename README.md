@@ -11,5 +11,5 @@ Dorian Camilleri whose codepen help me with making flip animation more 3d https:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/13NOONE37/Launch-countdown-timer))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://13noone37.github.io/Launch-countdown-timer/))

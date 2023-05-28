@@ -4,12 +4,12 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 Special thanks to
 Dorian Camilleri whose codepen help me with making flip animation more 3d https://codepen.io/doriancami/full/jEJvaV
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/13NOONE37/Launch-countdown-timer)
+- Live Site URL: [link](https://13noone37.github.io/Launch-countdown-timer/)

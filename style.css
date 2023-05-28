@@ -18,8 +18,9 @@
 }
 body {
   font-size: 16px;
-  background-color: var(--black);
-  background-image: url('./images/bg-stars.svg');
+  /* background-color: var(--black); */
+  background-image: url('./images/bg-stars.svg'),
+    linear-gradient(var(--black), rgb(40, 30, 43));
   min-height: 100vh;
   display: grid;
   grid-template-rows: 1fr 193px;

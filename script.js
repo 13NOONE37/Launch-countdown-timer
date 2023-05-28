@@ -2,7 +2,7 @@ let eventDate = new Date();
 eventDate.setDate(eventDate.getDate() + 8);
 eventDate.setHours(eventDate.getHours() + 23);
 eventDate.setMinutes(eventDate.getMinutes() + 55);
-eventDate.setSeconds(eventDate.getSeconds() + 41 + 1);
+eventDate.setSeconds(eventDate.getSeconds() + 42 + 1);
 
 const daysElement = document.getElementById('days');
 const hoursElement = document.getElementById('hours');

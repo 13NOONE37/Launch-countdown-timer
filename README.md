@@ -4,7 +4,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 Special thanks to
 Dorian Camilleri whose codepen help me with making flip animation more 3d https://codepen.io/doriancami/full/jEJvaV
